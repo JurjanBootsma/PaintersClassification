@@ -1,2 +1,2 @@
 # PaintersClassification
-Analysis of a art classification model using deep convolutional neural networks.
+Analysis of an art classification model using deep convolutional neural networks.
